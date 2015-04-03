@@ -1,0 +1,18 @@
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\bin\Debug\MainForm.exe.config
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\bin\Debug\MainForm.exe
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\bin\Debug\MainForm.pdb
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\obj\Debug\MainForm.Form1.resources
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\obj\Debug\MainForm.exe
+c:\users\psixx\documents\visual studio 2012\Projects\Koshi Meselesi\MainForm\obj\Debug\MainForm.pdb
+G:\Koshi Meselesi\MainForm\bin\Debug\MainForm.exe.config
+G:\Koshi Meselesi\MainForm\obj\Debug\MainForm.exe
+G:\Koshi Meselesi\MainForm\obj\Debug\MainForm.pdb
+G:\Koshi Meselesi\MainForm\bin\Debug\MainForm.exe
+G:\Koshi Meselesi\MainForm\bin\Debug\MainForm.pdb
+G:\Koshi Meselesi\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+G:\Koshi Meselesi\MainForm\obj\Debug\MainForm.Form1.resources
+G:\Koshi Meselesi\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+G:\Koshi Meselesi\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
